@@ -21,7 +21,7 @@ public class NoOfOccurence {
         for (Map.Entry<Character, Integer> entrySet:entry) {
             if (entrySet.getValue()>1) {
 
-                System.out.println();
+           
                 System.out.print(entrySet+" ");
             }
         }
